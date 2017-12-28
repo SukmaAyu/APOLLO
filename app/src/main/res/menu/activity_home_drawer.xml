@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/lapangan"
+            android:icon="@drawable/ic_crop_16_9_black_24dp"
+            android:title="DaftarLapangan" />
+        <item
+            android:id="@+id/peta"
+            android:icon="@drawable/ic_location_on_black_24dp"
+            android:title="BukaPeta" />
+        <item
+            android:id="@+id/booking"
+            android:icon="@drawable/ic_access_time_black_24dp"
+            android:title="Booking"/>
+        <item
+            android:id="@+id/Logout"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="Logout" />
+    </group>
+
+
+</menu>

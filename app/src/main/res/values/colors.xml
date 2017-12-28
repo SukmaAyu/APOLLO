@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2ae215</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="putih">#fffdfe</color>
+    <color name="hitam">#0d0d0d</color>
+
+    <color name="btnRegister">#e71589</color>
+    <color name="btnSignIn">#12a2e4</color>
+
+    <color name="overlayBackground">#c4c4c4</color>
+    <color name="overlayAction">#2e2f30</color>
+    <color name="merah">#fa2115</color>
+
+
+</resources>
